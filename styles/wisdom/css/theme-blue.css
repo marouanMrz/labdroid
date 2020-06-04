@@ -1,4 +1,10 @@
 /*#region Global Styles */
+.cent {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 div.hz-divider {
   margin: 15px 0;
   clear: both;
